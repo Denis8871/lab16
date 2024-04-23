@@ -1,4 +1,4 @@
-﻿namespace Lab_16_OOP_Dikiy
+﻿namespace Lab_16_OOP_Shostya
 {
     partial class Form1
     {
