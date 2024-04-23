@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab_16_OOP_Dikiy
+namespace Lab_16_OOP_Shostya
 {
     public class Rectangle
     {
