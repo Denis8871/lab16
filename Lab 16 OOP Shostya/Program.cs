@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab_16_OOP_Dikiy
+namespace Lab_16_OOP_Shostya
 {
     internal static class Program
     {
