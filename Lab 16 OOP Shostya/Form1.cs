@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Lab_16_OOP_Dikiy
+namespace Lab_16_OOP_Shostya
 {
     public partial class Form1 : Form
     {
